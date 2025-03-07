@@ -1,6 +1,7 @@
 <?php
 namespace App;
 
+
 use App\Traits\HasStatus;
 use App\Traits\HasTranslations;
 use Illuminate\Database\Eloquent\Model;
